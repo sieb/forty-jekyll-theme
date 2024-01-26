@@ -1,4 +1,4 @@
-[![Deploy to GitHub Pages](https://github.com/sieb/forty-jekyll-theme/actions/workflows/dry-run.yml/badge.svg)](https://github.com/sieb/forty-jekyll-theme/actions/workflows/dry-run.yml)
+[![pages-build-deployment](https://github.com/sieb/forty-jekyll-theme/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sieb/forty-jekyll-theme/actions/workflows/pages/pages-build-deployment)
 
 # Forty - Jekyll Theme
 
