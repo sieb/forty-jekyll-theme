@@ -1,3 +1,5 @@
+[![Deploy to GitHub Pages](https://github.com/sieb/forty-jekyll-theme/actions/workflows/dry-run.yml/badge.svg)](https://github.com/sieb/forty-jekyll-theme/actions/workflows/dry-run.yml)
+
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
